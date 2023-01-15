@@ -27,8 +27,6 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
-    
-    
   <!-- ojdbc11 -->
     <dependency>
     	<groupId>com.oracle.database.jdbc</groupId>
@@ -48,8 +46,6 @@
     	<artifactId>jackson-databind</artifactId>
     	<version>2.14.1</version>
 	</dependency>
-
-
 	<!-- https://mvnrepository.com/artifact/org.mybatis/mybatis -->
 		<dependency>
 			<groupId>org.mybatis</groupId>
@@ -63,9 +59,6 @@
 			<artifactId>cos</artifactId>
 			<version>05Nov2002</version>
 		</dependency>
-
-    
-    
   </dependencies>
 
   <build>
